@@ -52,8 +52,7 @@ info: |
 ## Key Questions
 
 > What are the **benefits** and **challenges** associated with using the Python
-> language, Typer, and Poetry for creating command-line
-> applications?
+> programming language to explore the field of data abstraction?
 
 </div>
 
