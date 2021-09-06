@@ -18,9 +18,9 @@ info: |
 
 [//]: # (Slide Start {{{)
 
-# Python Foundations
+# Data Abstraction
 
-## Data Abstraction
+## Python Foundations
 
 <div class="container my-5">
   &nbsp;
