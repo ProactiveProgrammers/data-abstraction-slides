@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "slidev",
-    "build": "slidev build --base /numerical-computation/ --out ../../../site/slides/discrete-structures/numerical-computation",
+    "build": "slidev build --base /slides/data-abstraction/numerical-computation/ --out ../../../site/slides/data-abstraction/numerical-computation",
     "export": "slidev export"
   },
   "dependencies": {

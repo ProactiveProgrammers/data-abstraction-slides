@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "slidev",
-    "build": "slidev build --base /python-foundations/ --out ../../../site/slides/discrete-structures/python-foundations",
+    "build": "slidev build --base /slides/data-abstraction/python-foundations/ --out ../../../site/slides/data-abstraction/python-foundations",
     "export": "slidev export"
   },
   "dependencies": {
